@@ -1,3 +1,3 @@
 # django-video-app
 
-Django on-demnd video application for cloud application development
+Django on-demand video application for cloud application development
